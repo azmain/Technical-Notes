@@ -16,8 +16,11 @@
 * Docker must be installed & running on windows machine.
 * Few docker commands are as belows.
     > docker images | list all images
+    
     > docker ps | list all running containers
+    
     > docker ps -a | list all containers
+    
     > docker rm container_name or id | remove a container
 
 * Package the spring boot project. It will create a jar file inside target folder.
